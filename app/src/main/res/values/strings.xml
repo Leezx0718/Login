@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Feed Me</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="signup">Sign up</string>
+    <string name="yourname">Your name</string>
+    <string name="youremail" />
+    <string name="yourPassword">Password</string>
+    <string name="youraddress" />
+    <string name="address">Address</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="throwRubbish">Save environment now</string>
+    <string name="yourpointTextView">Your Points: </string>
+    <string name="pointsNo">6666</string>
+    <string name="save_envir">Save Environment Now</string>
+    <string name="customerService">Help</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="redeem_his">Redeem History</string>
+    <string name="throw_record">Throw record</string>
+    <string name="profile_name">Jia Chen Ong</string>
+    <string name="feed_me">Feed Me</string>
+    <string name="redeem_btn">100point\n
+        <b>Redeem now</b></string>
+    <string name="about_us">About Us</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_redeem">Redeem</string>
+    <string name="logOut">Log out</string>
+
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="input_error_name_invalid">enter a valid username, username cannot more than 50 characters </string>
+
+    <string name="pref_file_name">com.example.FeedMe</string>
+    <string name="pref_name">com.example.pre.name</string>
+    <string name="pref_email">com.example.pre.email</string>
+    <string name="pref_address">com.example.pre.address</string>
+    <string name="pref_pic">com.example.pre.pic</string>
+    <string name="pref_point">com.example.pre.point</string>
+    <string name="saveBtn">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="ConfirmChange">Confirmed Change</string>
+
+
+    <string name ="aboutus">FeedMe was created in September 2019 by a few college students that willing to fight
+    against environmental issues. The ultimate goal of creating this app is to raise awareness of the current environment
+    issue among the young generations\n
+    \nSince the modern age, the younger generations had become more and more relying their own smartphones to completing their own tasks.So,
+    when ideas strikes up on the developer of this app is to target the younger generation to use this app on environmental issues and also gain
+    rewards by doing so.\n
+    </string>
+
+    <string name ="help">What is FeedMe?\n\n
+    FeedMe is an app that encourages user to throw their recycled item to the respective recycle center and rewards user points.\n
+    What are Points?\n\n
+    Points are accumulated by the user as long as they go to the respective recycle center. The owner can award the user some points which can
+    redeem voucher that be used in real life such as McDonalds, KFC and many more.\n\n
+    Why FeedMe? \n\n
+    FeedMe is developed by a few college students that their purpose is to encourage young people to raise awareness of the environment.\n\n
+    How to use FeedMe?\n\n
+    After launching the FeedMe app, the user are required to register their own account in order to gain access to the features of the app. After
+    logging into the account, there is a button call Feed Me which can be clicked which will generate a QR code for the owner of the respective recycling
+    center for them to scan. Every QR code is unique so do not share it to anyone.\n
+    After the your QR code being scanned the point will be added to your own account which can be redeeem for voucher which can be used in real life. If the
+    points is not enough than the expected redeem points, you will not be able to redeem it. So, lets get recycling shall we?\n\n
+    Profile\n\n
+    There a few feature that can be use here in FeedMe which are profile maintenance which allows the user to edit your own profile and redeem history. Your own
+    profile can be updated as long as the inputted value is in correct order.</string>
+
+</resources>
